@@ -97,9 +97,6 @@ function App() {
     </p>
   </div>
 
-  <div className="hero-wrapper">
-    <header className="navbar">
-
       <div className="hero-wrapper">
         <header className="navbar">
           <div className="navbar-left">
