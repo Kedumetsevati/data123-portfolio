@@ -75,6 +75,31 @@ function App() {
   return (
     <div className="app-root">
       {/* TOP GRADIENT HEADER */}
+      <div className="app-root">
+
+  {/* TOP GRADIENT HEADER */}
+
+  {/* PERSONAL HEADER */}
+  <div className="personal-header">
+    <h1>Hi, I'm Kedumetse Nadour Vati 👋</h1>
+    <h2>Data Analyst & Data Scientist (PhD in Mathematics)</h2>
+    <p>
+      I specialize in building analytical dashboards, forecasting models,
+      and automated data solutions that solve real business problems.
+    </p>
+
+    <p>
+      🔗 <a href="https://github.com/Kedumetsevati" target="_blank" rel="noreferrer">GitHub</a>
+      {" | "}
+      🔗 <a href="https://www.linkedin.com/in/kedumetsevati1991/" target="_blank" rel="noreferrer">LinkedIn</a>
+      {" | "}
+      📧 <a href="mailto:drkedumvati@gmail.com">drkedumvati@gmail.com</a>
+    </p>
+  </div>
+
+  <div className="hero-wrapper">
+    <header className="navbar">
+
       <div className="hero-wrapper">
         <header className="navbar">
           <div className="navbar-left">
