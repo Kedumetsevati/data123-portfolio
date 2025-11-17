@@ -75,12 +75,9 @@ function App() {
   return (
     <div className="app-root">
       {/* TOP GRADIENT HEADER */}
-      <div className="app-root">
 
-  {/* TOP GRADIENT HEADER */}
-
-  {/* PERSONAL HEADER */}
-  <div className="personal-header">
+    {/* PERSONAL HEADER */}
+    <div className="personal-header">
     <h1>Hi, I'm Kedumetse Nadour Vati 👋</h1>
     <h2>Data Analyst & Data Scientist (PhD in Mathematics)</h2>
     <p>
